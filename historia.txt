@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 esta es mi historia xd
 jajajaja
+=======
+esta es mi historia xd y tengo 20 anos, esta es la historia de su vida
+empezamoscon esta mravillosa aventura
+>>>>>>> cabcera
